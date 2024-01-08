@@ -1,41 +1,39 @@
-# Awesome Mechanical Engineering Resources
+# Recursos para Ingeniería Mecánica
 
 ![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
 
-_So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
-Check the [contributions guideline](../master/contributions.md)
+Revisra la [guía de contribuciones](../master/contributions.md)
 
-Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
 
-Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 770+ upvotes*
+DIscutir sobre esta lista en [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 770+ upvotes*
 
 Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 ---
 
-<a name="toc"></a>Table of Contents
+<a name="toc"></a>Tabla de contenidos
 -----------------
 <details open><summary><sup>Hide</sup>/<sub>Show</sub></summary><br/>
 
-[Preamble](#preamble)
+[Introducción](#Introducción)
 
-[Open Courses](#opencourse)
+[Cursos abiertos](#opencourse)
 
 [General](#general)
-  * [Mechanical Engineering Knowledge Maps](#MechEng-Map)
-  * [Databases](#database)
-  * [Online Calculators](#calculator)
-  * [Tools and Programs](#tool)
-  * [Useful Websites](#useful)
-  * [Patents](#patents)
-  * [Blog and Forums](#blog)
+  * [Mapas de conocimiento en Ingeniería Mecánica](#MechEng-Map)
+  * [Based de datos](#database)
+  * [Calculadoras online](#calculator)
+  * [Herramientas y programass](#tool)
+  * [Sitios útiles](#useful)
+  * [Patentes](#patents)
+  * [Blog and Foros](#blog)
 
-[Mathematics](#math)
-  * [Calculus and Linear Algebra](#calculus)
-  * [Numerical Analysis](#numerical)
+[Matemática](#math)
+  * [Cálculo y álgebra lineal](#calculus)
+  * [Análisis numérico](#numerical)
 
-[Programming](#programming)
+[Programacióng](#programming)
   * [C++](#cpp)
   * [Python](#python)
   * [Julia](#julia)
@@ -45,22 +43,22 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Fortran](#fortran)
   * [LaTeX](#latex)
 
-[Mechanics](#mechanics)
-  * [Continuum Mechanics](#continuum)
-  * [Statics and Dynamics](#statics&dynamics)
-  * [Strength of Materials](#strength)
-  * [Plasticity](#plasticity)
+[Mecánica](#mechanics)
+  * [Mecánica del continuo](#continuum)
+  * [Estática y dinámica](#statics&dynamics)
+  * [Resistencia de los materiales](#strength)
+  * [Plasticidad](#plasticity)
 
-[Theory of Machines](#machine)
-  * [Mechanism Design](#mechanism-design)
-  * [Control Engineering](#control-engineering)
-  * [Robotics](#robotics)
+[Teoría de máquinas](#machine)
+  * [Diseño de mcanismos](#mechanism-design)
+  * [Ingeniería de control](#control-engineering)
+  * [Robótica](#robotics)
 
-[Thermal Engineering](#thermo)
-  * [Thermodynamics](#thermodynamics)
-  * [Heat Transfer](#heat-transfer)
-  * [Fluid Mechanics](#fluid-mechanics)
-  * [Gas Dynamics](#gas-dynamics)
+[Ingeniería térmica](#thermo)
+  * [Termodinámica](#thermodynamics)
+  * [Transferencia de calor](#heat-transfer)
+  * [Mecánico de fluidos](#fluid-mechanics)
+  * [DInámica de gases](#gas-dynamics)
 
 [Manufacturing](#manufacturing)
   * [CAD/CAM](#cadcam)
