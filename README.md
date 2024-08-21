@@ -3,10 +3,10 @@
 ![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
 
 
-Revisra la [guía de contribuciones](../master/contributions.md)
+Revisa la [guía de contribuciones](../master/contributions.md)
 
 
-DIscutir sobre esta lista en [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 770+ upvotes*
+Discutir sobre esta lista en [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 770+ upvotes*
 
 Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
@@ -33,7 +33,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Cálculo y álgebra lineal](#calculus)
   * [Análisis numérico](#numerical)
 
-[Programacióng](#programming)
+[Programación](#programming)
   * [C++](#cpp)
   * [Python](#python)
   * [Julia](#julia)
